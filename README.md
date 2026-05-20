@@ -30,7 +30,7 @@ I've spent nearly five years in technical education and hands-on work — three 
 
 
 - 🛍️ **NLP Product Recommendation System — GlamourWear**
-  End-to-end ML pipeline — text preprocessing, Logistic Regression, 89.34% accuracy (5-fold CV) — deployed as a live Flask web app where users browse items, submit reviews, and get real-time recommendation predictions. 🎥 [Watch Demo](https://drive.google.com/file/d/1Bbo5P5yJ8iXmYyGdt6hwZPHsfPh_IJ80/view?usp=sharing)
+  End-to-end ML pipeline — text preprocessing, Logistic Regression, 89.34% accuracy (5-fold CV) — deployed as a live Flask web app where users browse items, submit reviews, and get real-time recommendation predictions on women's clothing. 🎥 [Watch Demo](https://drive.google.com/file/d/1Bbo5P5yJ8iXmYyGdt6hwZPHsfPh_IJ80/view?usp=sharing)
 
 
 - 📈 **Pharmaceutical Expenditure Forecasting — SARIMA**
