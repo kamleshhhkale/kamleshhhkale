@@ -9,7 +9,7 @@
 
 Millions saw the apple fall, but Newton asked why. That instinct — to not just observe but to question — is something I relate to deeply. I'm someone who gets curious about things and doesn't let go until I understand how they work — and how they break. I get a question mark in my head and won't let it go until I understand the *what*, *why*, and *how* behind something. I build, break, and research deeper every day.
 
-I chose data science as my major in 2023 before it was mainstream, moved from India to Melbourne alone, and spent the past year building real AI and ML systems in commercial environments. What I've realised through all of this is that I really enjoy building things — AI systems that are actually used — not just models that sit in notebooks. I like when the analysis leads to real decisions that have impact.
+I chose data science as my major in 2023 before it was mainstream, moved from India to Melbourne alone, and spent the past two years building real AI and ML systems in commercial environments. What I've realised through all of this is that I really enjoy building things — AI systems that are actually used — not just models that sit in notebooks. I like when the analysis leads to real decisions that have impact.
 
 I've spent nearly five years in technical education and hands-on work — three years during my undergraduate (9.48/10) and two in my Master's (GPA: 3.6/4.0) — so pretty much my whole recent journey has been in this space. This has given me solid capabilities working with complex datasets and building systems that actually work. I'm comfortable across Python, R, SQL, and the broader data ecosystem, and I can jump into data from any direction.
 
