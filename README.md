@@ -34,11 +34,11 @@ I've spent nearly five years in technical education and hands-on work — three 
 
 
 - 📈 **Pharmaceutical Expenditure Forecasting — SARIMA**
-  Complete time series pipeline in R — stationarity testing, BIC model selection, Ljung-Box diagnostics. Selected SARIMA(4,1,1)×(2,1,1)[12] from 7 candidates and validated 10-month forecasts on Australian PBS corticosteroid data.
+  Complete time series pipeline in R — stationarity testing, BIC model selection, Ljung-Box diagnostics. Selected SARIMA(4,1,1)×(2,1,1)[12] from 7 candidates and validated 10-month forecasts on Australian PBS corticosteroid data to support healthcare resource planning.
 
 
 - 📊 **Australian Scam Report Dashboard**
-  Interactive R Shiny dashboard exploring scam patterns across six Australian states using 45,306 rows of real 2024 ACCC Scamwatch data — KPI overview, age-group heatmap, and financial loss bubble plot. Live at [shinyapps.io](https://kamleshhhkale.shinyapps.io/project/).
+  Interactive R Shiny dashboard exploring scam patterns across six Australian states using 45,306 rows of real 2024 ACCC Scamwatch data — KPI overview, age-group heatmap, and financial loss bubble plot — built to communicate risk patterns and raise public awareness. Live at [shinyapps.io](https://kamleshhhkale.shinyapps.io/project/).
 
 ---
 
